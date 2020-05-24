@@ -1,0 +1,127 @@
+# depslib dependency file v1.0
+1560250809 source:c:\users\rafae\documents\prologqa\qagraph\main.c
+	<stdio.h>
+	"graph.h"
+	"ParseQA.h"
+	"sentence.h"
+	<string.h>
+
+1560187701 c:\users\rafae\documents\prologqa\qagraph\graph.h
+	<stdlib.h>
+	<stdio.h>
+
+1559930170 c:\users\rafae\documents\prologqa\qagraph\graph.c
+	<stdlib.h>
+	<stdio.h>
+	"graph.h"
+
+1560199488 source:c:\users\rafae\documents\prologqa\qagraph\graph.c
+	"graph.h"
+
+1560200064 c:\users\rafae\documents\prologqa\qagraph\parseqa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+	"sentence.h"
+
+1560200468 source:c:\users\rafae\documents\prologqa\qagraph\parseqa.c
+	"ParseQA.h"
+
+1560251184 source:c:\users\rafae\documents\prologqa\qagraph\sentence.c
+	"sentence.h"
+
+1560191249 c:\users\rafae\documents\prologqa\qagraph\sentence.h
+	<stdlib.h>
+	<stdio.h>
+	"graph.h"
+
+1589424069 source:c:\users\rafael\repositórios\prologqaoriginal\qagraph\graph.c
+	"graph.h"
+
+1589398236 c:\users\rafael\repositórios\prologqaoriginal\qagraph\graph.h
+	<stdlib.h>
+	<stdio.h>
+
+1589424407 source:c:\users\rafael\repositórios\prologqaoriginal\qagraph\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	"ParseQA.h"
+	"sentence.h"
+	<string.h>
+	"utils.h"
+
+1589410850 c:\users\rafael\repositórios\prologqaoriginal\qagraph\parseqa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+	"sentence.h"
+
+1589398236 c:\users\rafael\repositórios\prologqaoriginal\qagraph\sentence.h
+	<stdlib.h>
+	<stdio.h>
+	"graph.h"
+
+1589413310 source:c:\users\rafael\repositórios\prologqaoriginal\qagraph\parseqa.c
+	"ParseQA.h"
+
+1589424157 source:c:\users\rafael\repositórios\prologqaoriginal\qagraph\sentence.c
+	"sentence.h"
+
+1589400277 c:\users\rafael\repositórios\prologqaoriginal\qagraph\main.h
+	<stdio.h>
+	"graph.h"
+	"ParseQA.h"
+	"sentence.h"
+	<string.h>
+
+1589421139 source:c:\users\rafael\repositórios\prologqaoriginal\qagraph\utils.c
+	"utils.h"
+	<stdio.h>
+	<string.h>
+
+1589404614 c:\users\rafael\repositórios\prologqaoriginal\qagraph\utils.h
+
+1589424069 source:c:\users\rafael\repositórios\prologqaoriginal\src\graph.c
+	"graph.h"
+
+1589398236 c:\users\rafael\repositórios\prologqaoriginal\src\graph.h
+	<stdlib.h>
+	<stdio.h>
+
+1589502045 source:c:\users\rafael\repositórios\prologqaoriginal\src\main.c
+	<stdio.h>
+	<stdlib.h>
+	"graph.h"
+	"ParseQA.h"
+	"sentence.h"
+	<string.h>
+	"utils.h"
+
+1589410850 c:\users\rafael\repositórios\prologqaoriginal\src\parseqa.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"graph.h"
+	"sentence.h"
+
+1589398236 c:\users\rafael\repositórios\prologqaoriginal\src\sentence.h
+	<stdlib.h>
+	<stdio.h>
+	"graph.h"
+
+1589404614 c:\users\rafael\repositórios\prologqaoriginal\src\utils.h
+
+1589516773 source:c:\users\rafael\repositórios\prologqaoriginal\src\parseqa.c
+	"ParseQA.h"
+
+1589426617 source:c:\users\rafael\repositórios\prologqaoriginal\src\sentence.c
+	"sentence.h"
+
+1589502481 source:c:\users\rafael\repositórios\prologqaoriginal\src\utils.c
+	"utils.h"
+	<stdio.h>
+	<string.h>
+

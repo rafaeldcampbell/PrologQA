@@ -1,0 +1,18 @@
+"Quem é o vocalista de Des Moines que entrou em 1997 na banda?"
+play(Artist, vocal).
+origin(Artist, desMoines).
+whenJoin(Artist, 1997).
+
+"Quem tocou no rio e quais instrumentos essas pessoas tocam?"
+play(Artist, Instrument).
+join(Artist, Band).
+concert(Band, rio).
+
+"Quem já tocou na mesma cidade de onde vem?"
+join(Artist, Band).
+concert(Band, Local).
+origin(Artist, Local).
+
+"Quem toca algum instrumento que o CraigJones também toca?"
+play(Artist, Instrument).
+play(craigJones, Instrument).
